@@ -1,0 +1,118 @@
+```{=html}
+
+
+
+
+<style type="text/css">
+  body{
+  font-size: 12pt; 
+  font-family: "Times New Roman","宋体";
+  line-height: 24pt;
+  text-indent: 0em;
+}
+  td{  /* Table字体设置  */
+  font-size: 10.5pt;
+  font-family: "Times New Roman"
+}
+  h1.title {
+  font-size: 18pt;
+  font-family: "Times New Roman", "黑体";
+  text-align: center;
+  font-weight: Bold;
+}
+
+  h1 { /* Header 1 */
+  font-size: 16pt;
+  font-family: "Times New Roman", "黑体";
+  color: Black;
+  font-weight: Bold;
+  text-align: center
+}
+  h2 { /* Header 2 */
+  font-size: 14pt;
+  color: Black;
+  font-weight: Bold;
+  font-family: "Times New Roman", "黑体"
+}
+  h3 { /* Header 3 */
+  font-size: 12pt;
+  font-family: "Times New Roman", "宋体";
+  font-weight: Bold;
+  color: Black;
+}
+  
+  /* 以下为表格详细设置
+  
+  */
+  tr{
+  border:none
+}
+  table {
+    background-color: #FFF;
+    border-top:1.75pt solid #000; /* 上下标线粗细 */
+    border-bottom :1.75pt solid #000;
+    margin: 0 auto; /* 表格自动居中 */
+    color: #000;/* 字体为黑色 */
+    vertical-align: middle;/* 内容居于中部*/
+    margin-bottom: 12pt; /* 下沿空白区域  */
+}
+  table caption {
+    font-size: 10.5pt;
+    text-align: center;
+    font-style: "Times New Roman","宋体";
+    font-weight: Bold;
+    border:none;
+    color: #000;
+}
+
+  tfoot{
+    font-weight: bold;
+    text-align:center;
+    
+}
+  thead th {
+    font-size: 10.5pt;
+    font-weight: bold;
+    text-align:center;
+    border-right: none; 
+    border-left: none;
+    border-bottom:1pt solid #000;
+    ;
+    
+}
+  tbody{
+  /**/
+   
+}
+  /*不想动了！！！！这个三线表真的调不出来——20230303——LYX*/
+  /*把kable的format调成"html"就成功了!!!——20230304——lyx*/
+  
+  code{
+  font-style: "Courier New"
+  
+}
+  
+  
+</style>
+```
+```{r echo=FALSE}
+#以下可用于插入文本用的，可自定义字体大小、字体类型、字体风格（加粗等等）——LuYX
+#<p style="font-family: times, serif; font-size:11pt; font-style:italic">
+#    ahdfoahfaoiwhfoi
+#</p>
+#<p style="font-family: 楷体; font-size:24pt; font-style:bold">
+#    中文字体测试
+#</p>
+
+#使用<br />
+```
+
+***  
+
+# [目录](https://luyuxiaopku.github.io/LuExperiments/)
+
+***  
+## [1.生化实验](https://luyuxiaopku.github.io/LuExperiments/1.Biochemistry_Experiments/)  
+### 1.1 蛋白提取(for Western Blot)  
+
+
