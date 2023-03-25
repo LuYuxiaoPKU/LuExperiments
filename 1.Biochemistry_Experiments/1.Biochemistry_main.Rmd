@@ -113,6 +113,6 @@
 
 ***  
 ## [1.生化实验](https://luyuxiaopku.github.io/LuExperiments/1.Biochemistry_Experiments/)  
-### 1.1 蛋白提取(for Western Blot)  
+### [1.1 蛋白提取(for Western Blot)](https://luyuxiaopku.github.io/LuExperiments/1.Biochemistry_Experiments/1.1.whole_cell_lysis_for_WB/)
 
 
