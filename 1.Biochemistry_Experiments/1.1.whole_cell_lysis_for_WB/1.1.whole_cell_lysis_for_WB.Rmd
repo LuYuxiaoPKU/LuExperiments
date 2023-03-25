@@ -1,4 +1,7 @@
-#### Lysis Buffer 配制
+## [1.生化实验](https://luyuxiaopku.github.io/LuExperiments/1.Biochemistry_Experiments/)
+### [1.1 蛋白提取(for Western Blot)](https://luyuxiaopku.github.io/LuExperiments/1.Biochemistry_Experiments/1.1.whole_cell_lysis_for_WB/)  
+
+#### 1.1.1.Lysis Buffer 配制
 
 
 >实验室祖传buffer配方  
@@ -25,7 +28,7 @@
 
 
 
-#### 收样
+#### 1.1.1.收样
 1)吸去培养基,PBS洗2次  
   
 2)(若需要)封口膜封上培养皿边缘,将培养皿放入-20℃/-80℃冷冻  
